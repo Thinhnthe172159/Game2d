@@ -1,0 +1,4 @@
+repository "FirstTopDownGame/MapForGame@18967702010863@cloud"
+  path "/"
+    br "/main"
+    co "/main"
