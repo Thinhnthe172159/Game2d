@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      tileset_by_calebcoleman_d7ezmmp-fullview_0: -1202723400265181006
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

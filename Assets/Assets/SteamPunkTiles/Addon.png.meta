@@ -497,7 +497,22 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Addon_0: -1197632408339722970
+      Addon_1: 2332651166703373454
+      Addon_10: -5330633736200461258
+      Addon_11: -8194510508143727942
+      Addon_12: 8733873387032049512
+      Addon_13: -4741748528713334610
+      Addon_14: 1347998183841831299
+      Addon_2: 9086650709879644142
+      Addon_3: 2005689778636468209
+      Addon_4: 1342297800008707330
+      Addon_5: -9006487545266417862
+      Addon_6: -7408305601692335625
+      Addon_7: 3400600007078624929
+      Addon_8: 3462089929705289039
+      Addon_9: 7884718559531915717
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
