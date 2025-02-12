@@ -32,7 +32,7 @@ TagManager:
   - Grass_01
   - Floor_01
   - Ground_02
-  - 
+  - Player
   - 
   - 
   - 
@@ -106,6 +106,9 @@ TagManager:
     locked: 0
   - name: Plant_05
     uniqueID: 2969310955
+    locked: 0
+  - name: Player
+    uniqueID: 3550701979
     locked: 0
   m_RenderingLayers:
   - Default
