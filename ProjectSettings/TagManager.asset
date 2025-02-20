@@ -11,28 +11,28 @@ TagManager:
   - 
   - Water
   - UI
-  - Ground_01
-  - Water_01
-  - Props_01
-  - Props_02
-  - Props_03
-  - Props_04
-  - Props_05
-  - Struct_01
-  - Struct_02
-  - Struct_03
-  - Struct_04
-  - Struct_05
-  - Plant_01
-  - Plant_02
-  - Plant_03
-  - Plant_04
-  - Plant_05
-  - Shadow_01
-  - Grass_01
-  - Floor_01
-  - Ground_02
-  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
   - 
   - 
   - 
@@ -40,87 +40,6 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
-    locked: 0
-  - name: Ground_03
-    uniqueID: 465459125
-    locked: 0
-  - name: Ground_01
-    uniqueID: 2425651459
-    locked: 0
-  - name: ground_02
-    uniqueID: 3357728285
-    locked: 0
-  - name: Floor_01
-    uniqueID: 2246758379
-    locked: 0
-  - name: Water_01
-    uniqueID: 4250941897
-    locked: 0
-  - name: Shadow_01
-    uniqueID: 857403287
-    locked: 0
-  - name: Grass_01
-    uniqueID: 3689324367
-    locked: 0
-  - name: Props_01
-    uniqueID: 4189426099
-    locked: 0
-  - name: Props_02
-    uniqueID: 3833477397
-    locked: 0
-  - name: Props_03
-    uniqueID: 3517534265
-    locked: 0
-  - name: Props_04
-    uniqueID: 3103116041
-    locked: 0
-  - name: Props_05
-    uniqueID: 215114245
-    locked: 0
-  - name: Struct_01
-    uniqueID: 3780030995
-    locked: 0
-  - name: Struct_02
-    uniqueID: 1356827975
-    locked: 0
-  - name: Struct_03
-    uniqueID: 591844269
-    locked: 0
-  - name: Struct_04
-    uniqueID: 1304299923
-    locked: 0
-  - name: Struct_05
-    uniqueID: 2222452371
-    locked: 0
-  - name: Plant_01
-    uniqueID: 3695061523
-    locked: 0
-  - name: Plant_02
-    uniqueID: 622154507
-    locked: 0
-  - name: Plant_03
-    uniqueID: 2038280333
-    locked: 0
-  - name: Plant_04
-    uniqueID: 1662430765
-    locked: 0
-  - name: Plant_05
-    uniqueID: 2969310955
-    locked: 0
-  - name: Player
-    uniqueID: 3550701979
-    locked: 0
-  - name: ground
-    uniqueID: 381073153
-    locked: 0
-  - name: walk_Front
-    uniqueID: 4255857383
-    locked: 0
-  - name: collision
-    uniqueID: 1574157965
-    locked: 0
-  - name: decor
-    uniqueID: 2878198963
     locked: 0
   m_RenderingLayers:
   - Default
