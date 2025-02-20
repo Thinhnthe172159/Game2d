@@ -41,5 +41,23 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Ground
+    uniqueID: 3901911157
+    locked: 0
+  - name: WalkFront
+    uniqueID: 1488793047
+    locked: 0
+  - name: Collision
+    uniqueID: 4159375535
+    locked: 0
+  - name: Current
+    uniqueID: 3735014461
+    locked: 0
+  - name: WalkBack
+    uniqueID: 1794739421
+    locked: 0
+  - name: Decoration
+    uniqueID: 965046861
+    locked: 0
   m_RenderingLayers:
   - Default
