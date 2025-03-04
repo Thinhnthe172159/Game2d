@@ -18,7 +18,7 @@ public class Player : MonoBehaviour
     void MovePlayer()
     {
         Vector2 playerInput = new Vector2(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical"));
-        rb.linearVelocity = playerInput.normalized * moveSpeed;
+        rb.linearVelocity = playerInput * moveSpeed;
         if(playerInput.x > 0)
         {
             spriteRenderer.flipX = false;

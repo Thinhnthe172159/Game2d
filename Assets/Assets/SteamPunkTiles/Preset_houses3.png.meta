@@ -134,17 +134,17 @@ TextureImporter:
       name: Preset_houses3_0
       rect:
         serializedVersion: 2
-        x: 11
-        y: 545
-        width: 163
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 12
+        y: 546
+        width: 161
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: dfaa55e77fc268170800000000000000
       internalID: 8180275214653172477
@@ -156,17 +156,25 @@ TextureImporter:
       name: Preset_houses3_1
       rect:
         serializedVersion: 2
-        x: 20
-        y: 294
-        width: 216
-        height: 229
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 21
+        y: 295
+        width: 214
+        height: 227
+      alignment: 9
+      pivot: {x: 0.48642236, y: 0.27200142}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
-      physicsShape: []
-      tessellationDetail: -1
+      physicsShape:
+      - - {x: -79, y: -109.5}
+        - {x: -31, y: -110.5}
+        - {x: -30, y: -91.5}
+        - {x: 102, y: -90.5}
+        - {x: 103, y: -64.5}
+        - {x: 78, y: -64.5}
+        - {x: 78, y: 24.5}
+        - {x: -77, y: 21.5}
+      tessellationDetail: 0
       bones: []
       spriteID: 585a2f1969d85f5d0800000000000000
       internalID: -3029359496503581307
@@ -178,17 +186,21 @@ TextureImporter:
       name: Preset_houses3_2
       rect:
         serializedVersion: 2
-        x: 258
-        y: 246
-        width: 227
-        height: 290
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 260
+        y: 247
+        width: 225
+        height: 288
+      alignment: 9
+      pivot: {x: 0.49031466, y: 0.2774459}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
-      physicsShape: []
-      tessellationDetail: -1
+      physicsShape:
+      - - {x: -85.5, y: -110}
+        - {x: 95.5, y: -110}
+        - {x: 95.5, y: 33}
+        - {x: -85.5, y: 33}
+      tessellationDetail: 0
       bones: []
       spriteID: c2b76ba1871184710800000000000000
       internalID: 1677610068737424172
@@ -200,17 +212,21 @@ TextureImporter:
       name: Preset_houses3_3
       rect:
         serializedVersion: 2
-        x: 6
-        y: 86
-        width: 112
-        height: 194
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 7
+        y: 87
+        width: 110
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44717082, y: 0.31401816}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
-      physicsShape: []
-      tessellationDetail: -1
+      physicsShape:
+      - - {x: -53, y: -93}
+        - {x: 39, y: -93}
+        - {x: 39, y: 10}
+        - {x: -53, y: 10}
+      tessellationDetail: 0
       bones: []
       spriteID: add922dae092fd510800000000000000
       internalID: 1576023537613970906
@@ -222,17 +238,21 @@ TextureImporter:
       name: Preset_houses3_4
       rect:
         serializedVersion: 2
-        x: 125
-        y: 150
-        width: 144
-        height: 131
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 127
+        y: 151
+        width: 142
+        height: 129
+      alignment: 9
+      pivot: {x: 0.438614, y: 0.320969}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
-      physicsShape: []
-      tessellationDetail: -1
+      physicsShape:
+      - - {x: -70, y: -62.5}
+        - {x: 55, y: -62.5}
+        - {x: 55, y: 17.5}
+        - {x: -70, y: 17.5}
+      tessellationDetail: 0
       bones: []
       spriteID: cbd3e6a5ac8723650800000000000000
       internalID: 6211159646593236412
@@ -244,17 +264,29 @@ TextureImporter:
       name: Preset_houses3_5
       rect:
         serializedVersion: 2
-        x: 299
-        y: 14
-        width: 214
-        height: 213
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 301
+        y: 15
+        width: 212
+        height: 211
+      alignment: 9
+      pivot: {x: 0.4691623, y: 0.34770977}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
-      physicsShape: []
-      tessellationDetail: -1
+      physicsShape:
+      - - {x: -105, y: -64.5}
+        - {x: 20, y: -61.5}
+        - {x: 34, y: -78.5}
+        - {x: 93, y: -72.5}
+        - {x: 94, y: -9.5}
+        - {x: 84, y: -0.5}
+        - {x: 77, y: 12.5}
+        - {x: -105, y: 12.5}
+      - - {x: -105, y: -96.5}
+        - {x: -11, y: -96.5}
+        - {x: -11, y: -63.5}
+        - {x: -104, y: -63.5}
+      tessellationDetail: 0
       bones: []
       spriteID: 314a42f8f35fee940800000000000000
       internalID: 5327465062559163411
@@ -266,17 +298,21 @@ TextureImporter:
       name: Preset_houses3_6
       rect:
         serializedVersion: 2
-        x: 125
+        x: 126
         y: 22
-        width: 113
-        height: 98
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 111
+        height: 96
+      alignment: 9
+      pivot: {x: 0.47382334, y: 0.35563514}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
-      physicsShape: []
-      tessellationDetail: -1
+      physicsShape:
+      - - {x: -50.5, y: -42}
+        - {x: 54.5, y: -44}
+        - {x: 54.5, y: 16}
+        - {x: -49.5, y: 18}
+      tessellationDetail: 0
       bones: []
       spriteID: 4b9dadfc312b0eba0800000000000000
       internalID: -6061649300279338572
@@ -288,7 +324,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: ea1342412bcd88c46967f3f2270b6621
     internalID: 0
     vertices: []
     indices: 
