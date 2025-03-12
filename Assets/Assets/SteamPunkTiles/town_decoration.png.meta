@@ -293,17 +293,17 @@ TextureImporter:
       name: town_decoration_0
       rect:
         serializedVersion: 2
-        x: 6
-        y: 383
-        width: 163
-        height: 52
+        x: 7
+        y: 384
+        width: 161
+        height: 50
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: 7588ce3294599d1a0800000000000000
       internalID: -6784227222289086377
@@ -315,17 +315,17 @@ TextureImporter:
       name: town_decoration_1
       rect:
         serializedVersion: 2
-        x: 7
-        y: 350
-        width: 15
-        height: 20
+        x: 8
+        y: 351
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: ebd0b8c7abc0ede10800000000000000
       internalID: 2224229261060541886
@@ -337,17 +337,17 @@ TextureImporter:
       name: town_decoration_2
       rect:
         serializedVersion: 2
-        x: 20
-        y: 350
-        width: 17
-        height: 21
+        x: 21
+        y: 351
+        width: 15
+        height: 19
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: 314c82da81103ad80800000000000000
       internalID: -8240741687661902829
@@ -359,17 +359,17 @@ TextureImporter:
       name: town_decoration_3
       rect:
         serializedVersion: 2
-        x: 36
-        y: 350
-        width: 24
-        height: 20
+        x: 37
+        y: 351
+        width: 22
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: 9f69cf2671c317230800000000000000
       internalID: 3634752445407336185
@@ -381,17 +381,17 @@ TextureImporter:
       name: town_decoration_4
       rect:
         serializedVersion: 2
-        x: 60
-        y: 350
-        width: 15
-        height: 20
+        x: 61
+        y: 351
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: a61d73b09f3e4e150800000000000000
       internalID: 5901092070536761706
@@ -403,17 +403,17 @@ TextureImporter:
       name: town_decoration_5
       rect:
         serializedVersion: 2
-        x: 84
-        y: 350
-        width: 15
-        height: 20
+        x: 85
+        y: 351
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: 77d36ecb8f0956940800000000000000
       internalID: 5288792735412010359
@@ -425,17 +425,17 @@ TextureImporter:
       name: town_decoration_6
       rect:
         serializedVersion: 2
-        x: 100
-        y: 350
-        width: 12
-        height: 20
+        x: 101
+        y: 351
+        width: 10
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: 733913bebee966620800000000000000
       internalID: 2767073757166146359
@@ -447,17 +447,17 @@ TextureImporter:
       name: town_decoration_7
       rect:
         serializedVersion: 2
-        x: 112
-        y: 350
-        width: 14
-        height: 21
+        x: 113
+        y: 351
+        width: 12
+        height: 19
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: 1aa7667defb4292f0800000000000000
       internalID: -967627412023641439
@@ -469,17 +469,17 @@ TextureImporter:
       name: town_decoration_8
       rect:
         serializedVersion: 2
-        x: 125
-        y: 350
-        width: 17
-        height: 21
+        x: 126
+        y: 351
+        width: 15
+        height: 19
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: c39f09d2c368ef4e0800000000000000
       internalID: -1945970395956840132
@@ -491,17 +491,17 @@ TextureImporter:
       name: town_decoration_9
       rect:
         serializedVersion: 2
-        x: 144
-        y: 350
-        width: 13
-        height: 20
+        x: 145
+        y: 351
+        width: 11
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: 8af5336d3db7696e0800000000000000
       internalID: -1831140048717520984
@@ -513,17 +513,17 @@ TextureImporter:
       name: town_decoration_10
       rect:
         serializedVersion: 2
-        x: 156
-        y: 350
-        width: 17
-        height: 20
+        x: 157
+        y: 351
+        width: 15
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: b0e3510c67ffa8e80800000000000000
       internalID: -8175441288043872757
@@ -535,17 +535,17 @@ TextureImporter:
       name: town_decoration_11
       rect:
         serializedVersion: 2
-        x: 169
-        y: 350
-        width: 15
-        height: 20
+        x: 170
+        y: 351
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: 58bd6b6847b2ca330800000000000000
       internalID: 3723398771404888965
@@ -557,17 +557,17 @@ TextureImporter:
       name: town_decoration_12
       rect:
         serializedVersion: 2
-        x: 184
-        y: 350
-        width: 6
-        height: 20
+        x: 185
+        y: 351
+        width: 4
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: 2a7857215fcae12b0800000000000000
       internalID: -5611857917080402014
@@ -579,17 +579,17 @@ TextureImporter:
       name: town_decoration_13
       rect:
         serializedVersion: 2
-        x: 190
-        y: 350
-        width: 17
-        height: 21
+        x: 191
+        y: 351
+        width: 15
+        height: 19
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: 85bd595ddf05bf8c0800000000000000
       internalID: -3964485995829273768
@@ -601,17 +601,17 @@ TextureImporter:
       name: town_decoration_14
       rect:
         serializedVersion: 2
-        x: 209
-        y: 350
-        width: 15
-        height: 20
+        x: 210
+        y: 351
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: 54fe68a71ebcf0f80800000000000000
       internalID: -8138061832351453371
@@ -623,17 +623,17 @@ TextureImporter:
       name: town_decoration_15
       rect:
         serializedVersion: 2
-        x: 224
-        y: 350
-        width: 13
-        height: 21
+        x: 225
+        y: 351
+        width: 11
+        height: 19
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: 6c44f373166ee3900800000000000000
       internalID: 666223100110521542
@@ -645,17 +645,21 @@ TextureImporter:
       name: town_decoration_16
       rect:
         serializedVersion: 2
-        x: 11
-        y: 262
-        width: 48
-        height: 75
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 12
+        y: 264
+        width: 46
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5000002, y: 0.39271858}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
-      physicsShape: []
-      tessellationDetail: -1
+      physicsShape:
+      - - {x: -2, y: -27.5}
+        - {x: 1, y: -27.5}
+        - {x: 1, y: -17.5}
+        - {x: -2, y: -17.5}
+      tessellationDetail: 0
       bones: []
       spriteID: 0c91da6136e26a5b0800000000000000
       internalID: -5357543703593543232
@@ -667,17 +671,21 @@ TextureImporter:
       name: town_decoration_17
       rect:
         serializedVersion: 2
-        x: 66
-        y: 262
-        width: 46
-        height: 83
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 67
+        y: 263
+        width: 44
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5000002, y: 0.40976027}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
-      physicsShape: []
-      tessellationDetail: -1
+      physicsShape:
+      - - {x: -2, y: -31.5}
+        - {x: 2, y: -31.5}
+        - {x: 2, y: -18.5}
+        - {x: -2, y: -18.5}
+      tessellationDetail: 0
       bones: []
       spriteID: 2a7e3b02623629200800000000000000
       internalID: 185319550084179874
@@ -689,17 +697,17 @@ TextureImporter:
       name: town_decoration_18
       rect:
         serializedVersion: 2
-        x: 119
-        y: 307
-        width: 18
-        height: 21
+        x: 120
+        y: 308
+        width: 16
+        height: 19
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: a4fcf1b218cbeabd0800000000000000
       internalID: -2616947070495371446
@@ -711,17 +719,17 @@ TextureImporter:
       name: town_decoration_19
       rect:
         serializedVersion: 2
-        x: 137
-        y: 307
-        width: 18
-        height: 21
+        x: 138
+        y: 308
+        width: 16
+        height: 19
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: 7d3aeb2ef96458c50800000000000000
       internalID: 6666812475909776343
@@ -733,17 +741,17 @@ TextureImporter:
       name: town_decoration_20
       rect:
         serializedVersion: 2
-        x: 154
-        y: 300
-        width: 28
-        height: 28
+        x: 155
+        y: 301
+        width: 26
+        height: 26
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: 858a6733d02197710800000000000000
       internalID: 1691402982961621080
@@ -755,17 +763,17 @@ TextureImporter:
       name: town_decoration_21
       rect:
         serializedVersion: 2
-        x: 201
-        y: 269
-        width: 25
-        height: 71
+        x: 202
+        y: 270
+        width: 23
+        height: 69
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: 3118ef71445925f70800000000000000
       internalID: 9174559510599991571
@@ -777,17 +785,17 @@ TextureImporter:
       name: town_decoration_22
       rect:
         serializedVersion: 2
-        x: 232
-        y: 269
-        width: 25
-        height: 71
+        x: 233
+        y: 270
+        width: 23
+        height: 69
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: 390b1f08333ce21c0800000000000000
       internalID: -4526465949486698349
@@ -799,17 +807,17 @@ TextureImporter:
       name: town_decoration_23
       rect:
         serializedVersion: 2
-        x: 265
-        y: 269
-        width: 25
-        height: 71
+        x: 266
+        y: 270
+        width: 23
+        height: 69
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: 3ec14fe507c5c2e60800000000000000
       internalID: 7938821880846490851
@@ -821,17 +829,17 @@ TextureImporter:
       name: town_decoration_24
       rect:
         serializedVersion: 2
-        x: 296
-        y: 269
-        width: 25
-        height: 71
+        x: 297
+        y: 270
+        width: 23
+        height: 69
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: f931fefcac8b75950800000000000000
       internalID: 6437817373560869791
@@ -843,17 +851,17 @@ TextureImporter:
       name: town_decoration_25
       rect:
         serializedVersion: 2
-        x: 335
-        y: 307
-        width: 66
-        height: 38
+        x: 336
+        y: 308
+        width: 64
+        height: 36
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: d5c770acd05b19110800000000000000
       internalID: 1265992041096510557
@@ -865,17 +873,17 @@ TextureImporter:
       name: town_decoration_26
       rect:
         serializedVersion: 2
-        x: 419
-        y: 309
-        width: 28
-        height: 37
+        x: 420
+        y: 310
+        width: 26
+        height: 35
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: 344b1447ff42137c0800000000000000
       internalID: -4093449906717346749
@@ -887,17 +895,17 @@ TextureImporter:
       name: town_decoration_27
       rect:
         serializedVersion: 2
-        x: 452
-        y: 310
-        width: 26
-        height: 37
+        x: 453
+        y: 311
+        width: 24
+        height: 35
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: c0878c8fd91bc1910800000000000000
       internalID: 1809516442337966092
@@ -909,17 +917,17 @@ TextureImporter:
       name: town_decoration_28
       rect:
         serializedVersion: 2
-        x: 482
-        y: 310
-        width: 28
-        height: 37
+        x: 483
+        y: 311
+        width: 26
+        height: 35
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: c468209b83e15ec50800000000000000
       internalID: 6693789650127062604
@@ -931,17 +939,17 @@ TextureImporter:
       name: town_decoration_29
       rect:
         serializedVersion: 2
-        x: 513
-        y: 310
-        width: 27
-        height: 37
+        x: 514
+        y: 311
+        width: 25
+        height: 35
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: 5385313a54e94eaf0800000000000000
       internalID: -367995247611652043
@@ -953,17 +961,17 @@ TextureImporter:
       name: town_decoration_30
       rect:
         serializedVersion: 2
-        x: 566
-        y: 312
-        width: 26
-        height: 21
+        x: 567
+        y: 313
+        width: 24
+        height: 19
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: 43bc0b52ba3657080800000000000000
       internalID: -9190329877856728268
@@ -975,17 +983,17 @@ TextureImporter:
       name: town_decoration_31
       rect:
         serializedVersion: 2
-        x: 596
-        y: 312
-        width: 21
-        height: 13
+        x: 597
+        y: 313
+        width: 19
+        height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: 96195a44a0dffa2f0800000000000000
       internalID: -959269975063424663
@@ -997,17 +1005,17 @@ TextureImporter:
       name: town_decoration_32
       rect:
         serializedVersion: 2
-        x: 335
-        y: 265
-        width: 66
-        height: 38
+        x: 336
+        y: 266
+        width: 64
+        height: 36
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: 117ee71fe1aab7880800000000000000
       internalID: -8612102812538575087
@@ -1019,17 +1027,17 @@ TextureImporter:
       name: town_decoration_33
       rect:
         serializedVersion: 2
-        x: 423
-        y: 271
-        width: 31
-        height: 23
+        x: 424
+        y: 272
+        width: 29
+        height: 21
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: 5a5a4172cac0e5490800000000000000
       internalID: -7755747574755842651
@@ -1041,17 +1049,17 @@ TextureImporter:
       name: town_decoration_34
       rect:
         serializedVersion: 2
-        x: 456
-        y: 274
-        width: 26
-        height: 18
+        x: 457
+        y: 275
+        width: 24
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: d254ddd703ccf5420800000000000000
       internalID: 2621038016795067693
@@ -1063,17 +1071,17 @@ TextureImporter:
       name: town_decoration_35
       rect:
         serializedVersion: 2
-        x: 486
-        y: 273
-        width: 31
-        height: 23
+        x: 487
+        y: 274
+        width: 29
+        height: 21
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: ec94f6d2556b04c30800000000000000
       internalID: 4341670517735901646
@@ -1085,17 +1093,17 @@ TextureImporter:
       name: town_decoration_36
       rect:
         serializedVersion: 2
-        x: 524
-        y: 273
-        width: 31
-        height: 23
+        x: 525
+        y: 274
+        width: 29
+        height: 21
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: 4c0026a94e2482180800000000000000
       internalID: -9139981894138330940
@@ -1107,17 +1115,17 @@ TextureImporter:
       name: town_decoration_37
       rect:
         serializedVersion: 2
-        x: 565
-        y: 252
-        width: 54
-        height: 45
+        x: 566
+        y: 253
+        width: 52
+        height: 43
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: 8511e5977b30d5ed0800000000000000
       internalID: -2423776937905352360
@@ -1129,17 +1137,17 @@ TextureImporter:
       name: town_decoration_38
       rect:
         serializedVersion: 2
-        x: 9
-        y: 176
-        width: 54
-        height: 72
+        x: 10
+        y: 177
+        width: 52
+        height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: 2bc2ca837acaebfe0800000000000000
       internalID: -1171309018859426638
@@ -1151,17 +1159,17 @@ TextureImporter:
       name: town_decoration_39
       rect:
         serializedVersion: 2
-        x: 71
-        y: 179
-        width: 35
-        height: 46
+        x: 72
+        y: 180
+        width: 33
+        height: 44
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: 473c40be1a8a65510800000000000000
       internalID: 1537601736179762036
@@ -1173,17 +1181,17 @@ TextureImporter:
       name: town_decoration_40
       rect:
         serializedVersion: 2
-        x: 112
-        y: 179
-        width: 34
-        height: 47
+        x: 113
+        y: 180
+        width: 32
+        height: 45
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: 8f7d4ef671c26b850800000000000000
       internalID: 6392345200272136184
@@ -1195,17 +1203,17 @@ TextureImporter:
       name: town_decoration_41
       rect:
         serializedVersion: 2
-        x: 171
-        y: 170
-        width: 31
-        height: 72
+        x: 172
+        y: 171
+        width: 29
+        height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: 75e5129875e558c10800000000000000
       internalID: 2055152535020330583
@@ -1217,17 +1225,17 @@ TextureImporter:
       name: town_decoration_42
       rect:
         serializedVersion: 2
-        x: 206
-        y: 170
-        width: 31
-        height: 72
+        x: 207
+        y: 171
+        width: 29
+        height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: 97c962465cfe88fe0800000000000000
       internalID: -1186434870744277895
@@ -1239,17 +1247,17 @@ TextureImporter:
       name: town_decoration_43
       rect:
         serializedVersion: 2
-        x: 241
-        y: 211
-        width: 66
-        height: 38
+        x: 242
+        y: 212
+        width: 64
+        height: 36
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: ebe8db97faf517490800000000000000
       internalID: -7750308276461531458
@@ -1261,17 +1269,17 @@ TextureImporter:
       name: town_decoration_44
       rect:
         serializedVersion: 2
-        x: 309
-        y: 211
-        width: 69
-        height: 54
+        x: 310
+        y: 212
+        width: 67
+        height: 52
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: 730b6c87335ff8470800000000000000
       internalID: 8399201431487688759
@@ -1283,17 +1291,17 @@ TextureImporter:
       name: town_decoration_45
       rect:
         serializedVersion: 2
-        x: 378
-        y: 211
-        width: 69
-        height: 54
+        x: 379
+        y: 212
+        width: 67
+        height: 52
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: ce53777aa0543fcc0800000000000000
       internalID: -3678520558569966100
@@ -1305,17 +1313,17 @@ TextureImporter:
       name: town_decoration_46
       rect:
         serializedVersion: 2
-        x: 446
-        y: 211
-        width: 71
-        height: 46
+        x: 447
+        y: 212
+        width: 69
+        height: 44
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: 83eff87de1e107a20800000000000000
       internalID: 3057977264798957112
@@ -1327,17 +1335,17 @@ TextureImporter:
       name: town_decoration_47
       rect:
         serializedVersion: 2
-        x: 528
-        y: 207
-        width: 28
-        height: 47
+        x: 529
+        y: 208
+        width: 26
+        height: 45
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: f1388b46707a97f90800000000000000
       internalID: -6955344499300596961
@@ -1349,17 +1357,17 @@ TextureImporter:
       name: town_decoration_48
       rect:
         serializedVersion: 2
-        x: 565
-        y: 204
-        width: 54
-        height: 45
+        x: 566
+        y: 205
+        width: 52
+        height: 43
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: d88a18b5ef82a9a50800000000000000
       internalID: 6528575682748983437
@@ -1371,17 +1379,17 @@ TextureImporter:
       name: town_decoration_49
       rect:
         serializedVersion: 2
-        x: 241
-        y: 170
-        width: 66
-        height: 38
+        x: 242
+        y: 171
+        width: 64
+        height: 36
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: 6065059247eb195c0800000000000000
       internalID: -4210374770496088570
@@ -1393,17 +1401,17 @@ TextureImporter:
       name: town_decoration_50
       rect:
         serializedVersion: 2
-        x: 311
-        y: 170
-        width: 66
-        height: 38
+        x: 312
+        y: 171
+        width: 64
+        height: 36
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: 17d79aef659693160800000000000000
       internalID: 7005746517712141681
@@ -1415,17 +1423,17 @@ TextureImporter:
       name: town_decoration_51
       rect:
         serializedVersion: 2
-        x: 381
-        y: 170
-        width: 66
-        height: 38
+        x: 382
+        y: 171
+        width: 64
+        height: 36
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: cb6219792b7cb8cb0800000000000000
       internalID: -4860571802955340100
@@ -1437,17 +1445,17 @@ TextureImporter:
       name: town_decoration_52
       rect:
         serializedVersion: 2
-        x: 529
-        y: 157
-        width: 28
-        height: 47
+        x: 530
+        y: 158
+        width: 26
+        height: 45
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: 7afd219314f0a4630800000000000000
       internalID: 3911955999129526183
@@ -1459,17 +1467,17 @@ TextureImporter:
       name: town_decoration_53
       rect:
         serializedVersion: 2
-        x: 571
-        y: 158
-        width: 28
-        height: 44
+        x: 572
+        y: 159
+        width: 26
+        height: 42
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: 4cd9335ac5ab86fc0800000000000000
       internalID: -3501343803209179708
@@ -1481,17 +1489,17 @@ TextureImporter:
       name: town_decoration_54
       rect:
         serializedVersion: 2
-        x: 8
-        y: 40
-        width: 258
-        height: 120
+        x: 9
+        y: 41
+        width: 256
+        height: 118
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: 06846349129e2bb50800000000000000
       internalID: 6607599933735716960
@@ -1503,17 +1511,17 @@ TextureImporter:
       name: town_decoration_55
       rect:
         serializedVersion: 2
-        x: 280
-        y: 66
-        width: 227
-        height: 92
+        x: 281
+        y: 67
+        width: 225
+        height: 90
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: 6635b4e42593126d0800000000000000
       internalID: -3017067249697860762
@@ -1525,17 +1533,17 @@ TextureImporter:
       name: town_decoration_56
       rect:
         serializedVersion: 2
-        x: 527
-        y: 94
-        width: 34
-        height: 62
+        x: 528
+        y: 95
+        width: 32
+        height: 60
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: 45aea5c222ff88e30800000000000000
       internalID: 4506131949422307924
@@ -1547,17 +1555,17 @@ TextureImporter:
       name: town_decoration_57
       rect:
         serializedVersion: 2
-        x: 571
-        y: 73
-        width: 34
-        height: 83
+        x: 572
+        y: 74
+        width: 32
+        height: 81
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: ceb4087adb7dc7540800000000000000
       internalID: 5007114095288142828
@@ -1569,17 +1577,17 @@ TextureImporter:
       name: town_decoration_58
       rect:
         serializedVersion: 2
-        x: 280
-        y: 8
-        width: 226
-        height: 53
+        x: 281
+        y: 9
+        width: 224
+        height: 51
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: aa6da410b7ff9feb0800000000000000
       internalID: -4685433033534548310
@@ -1591,17 +1599,17 @@ TextureImporter:
       name: town_decoration_59
       rect:
         serializedVersion: 2
-        x: 527
-        y: 29
-        width: 34
-        height: 62
+        x: 528
+        y: 30
+        width: 32
+        height: 60
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
       spriteID: bfc9f8542c8ed21d0800000000000000
       internalID: -3373784624742294277
@@ -1613,7 +1621,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 0bd124b94fd04dc438f7bd862952e9cc
     internalID: 0
     vertices: []
     indices: 
